@@ -30,7 +30,7 @@ The entire analysis was performed using *Microsoft Excel*, utilizing:
 
 ## 📷 Screenshots
 ### Overview Dashboard
-digital_wallet_transactions 01.png
+[digital_wallet_transactions 01.png](https://github.com/Minaashak/Wallet-Transactions-/blob/main/digital_wallet_transactions%2001.png?raw=true)
 
 ### Transactions Analysis
 digital_wallet_transactions 02.png
