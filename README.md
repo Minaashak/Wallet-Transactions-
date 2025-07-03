@@ -31,10 +31,11 @@ The entire analysis was performed using *Microsoft Excel*, utilizing:
 ## 📷 Screenshots
 ### Overview Dashboard
 ![image alt](https://github.com/Minaashak/Wallet-Transactions-/blob/main/digital_wallet_transactions%2001.png?raw=true)
-[digital_wallet_transactions 01.png](https://github.com/Minaashak/Wallet-Transactions-/blob/main/digital_wallet_transactions%2001.png?raw=true)
 
 ### Transactions Analysis
-digital_wallet_transactions 02.png
+
+![image alt](https://github.com/Minaashak/Wallet-Transactions-/blob/main/digital_wallet_transactions%2002.png?raw=true)
+
 ## 📎 Useful Links
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/mina-ishak-8591a6219) 
