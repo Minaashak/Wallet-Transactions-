@@ -30,10 +30,10 @@ The entire analysis was performed using *Microsoft Excel*, utilizing:
 
 ## 📷 Screenshots
 ### Overview Dashboard
-![Overview](digital_wallet_transactions 01.png)
+digital_wallet_transactions 01.png
 
 ### Transactions Analysis
-![Transactions Analysis](digital_wallet_transactions 02.png)
+digital_wallet_transactions 02.png
 ## 📎 Useful Links
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/mina-ishak-8591a6219) 
